@@ -1,0 +1,33 @@
+html,
+body,
+body.page,
+.wf-container>* {
+    font: normal 16px / 22px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+    word-spacing: normal;
+    color: #000000;
+}
+
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+*,
+legend {
+    padding: 0;
+}
+
+*,
+figure,
+form {
+    margin: 0;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "en-US";
+}
+
+user agent stylesheet html {
+    display: block;
+}
